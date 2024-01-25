@@ -1,0 +1,33 @@
+/* Font Family*/
+html {
+    font-family: "Inconsolata", monospace; /* this should be the rest of the output you got from Google Fonts */
+    background-color: #fcf1fa;
+  }
+  
+  img {
+    max-width: 30%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 150px;
+    margin: -40px 0;
+    padding: 20px 0;
+    color: #e0cf4d;
+    text-shadow: 3px 3px 1px rgb(254, 229, 174);
+  
+  }
+  
+  h2 {
+    font-size: 70px;
+    margin: -20px 0;
+    padding: 20px 0;
+    color:rgb(251, 166, 203)
+  }
+  
+  p, a, li {
+    font-size: 20px;
+    letter-spacing: 1px;
+  }
